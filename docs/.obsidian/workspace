@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "e34368cd6273a823",
+    "type": "split",
+    "children": [
+      {
+        "id": "78cc0afa5a563ad9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e599a9ef2447fb89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d717fdde78726aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c78247c1690e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ff8c446bbc46bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e9cf4be6be7b084",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8d136b808dc03993",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6929acf98b59b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f04630bba4ec1903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Home.md",
+    "others/Hero.md",
+    "Hero.md",
+    "Ultra VIP Sprinter.md",
+    "Travel Experience.md",
+    "New Airport.md",
+    "Untitled.md"
+  ]
+}
