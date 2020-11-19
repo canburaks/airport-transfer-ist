@@ -6,6 +6,7 @@
       {
         "id": "78cc0afa5a563ad9",
         "type": "leaf",
+        "dimension": 52.220520673813176,
         "active": true,
         "state": {
           "type": "markdown",
@@ -18,11 +19,12 @@
       {
         "id": "e599a9ef2447fb89",
         "type": "leaf",
+        "dimension": 47.77947932618683,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Home.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
